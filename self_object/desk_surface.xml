@@ -1,0 +1,18 @@
+<mujoco model="desk_surface">
+  <asset>
+    <mesh file="meshes/desk_surface.stl" name="desk_surface" scale="0.001 0.001 0.001"/>
+    <texture file="meshes/textures/bread.png" type="2d" name="tex-bread" />
+    <material name="bread" reflectance="0.7" texrepeat="15 15" texture="tex-bread" texuniform="true"/>
+  </asset>
+  <worldbody>
+    <body>
+      <body name="object">
+        <joint type="free" />
+        <geom pos="0 0 0.1" mesh="desk_surface" material="bread" type="mesh" solimp="0.9 0.95 0.001" friction="0.95 0.3 0.1" solref="0.02 1" density="1000" group="0"/>
+      </body>
+      <site rgba="0 0 0 0" size="0.005" pos="0 0 0" name="bottom_site"/>
+      <site rgba="0 0 0 0" size="0.005" pos="0 0 0.03" name="top_site"/>
+      <site rgba="0 0 0 0" size="0.005" pos="0.03 0.03 0" name="horizontal_radius_site"/>
+    </body>
+  </worldbody>
+</mujoco>
