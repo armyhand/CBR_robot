@@ -1,0 +1,156 @@
+Tue Jul 16 16:14:32 2024
+WARNING: mju_openResource: unknown file '/path/to/mjcf.xml'
+
+Thu Aug 22 12:30:32 2024
+WARNING: mju_openResource: could not open resource 'object.xml' with default provider at slot 1
+
+Thu Aug 22 12:30:47 2024
+WARNING: mju_openResource: could not open resource 'object.xml' with default provider at slot 1
+
+Thu Aug 22 12:32:23 2024
+WARNING: mju_openResource: could not open resource 'object.xml' with default provider at slot 1
+
+Thu Aug 22 12:33:56 2024
+WARNING: mju_openResource: could not open resource 'object.xml' with default provider at slot 1
+
+Thu Aug 22 12:34:10 2024
+WARNING: mju_openResource: could not open resource 'object.xml' with default provider at slot 1
+
+Thu Aug 22 12:36:06 2024
+WARNING: mju_openResource: could not open resource 'object.xml' with default provider at slot 1
+
+Thu Aug 22 14:31:24 2024
+WARNING: mju_openResource: could not open resource 'object.xml' with default provider at slot 1
+
+Thu Aug 22 14:42:13 2024
+WARNING: mju_openResource: could not open resource 'object.xml' with default provider at slot 1
+
+Thu Aug 22 14:45:07 2024
+WARNING: mju_openResource: could not open resource 'object.xml' with default provider at slot 1
+
+Thu Aug 22 14:45:27 2024
+WARNING: mju_openResource: could not open resource 'object.xml' with default provider at slot 1
+
+Thu Aug 22 14:45:43 2024
+WARNING: mju_openResource: could not open resource 'object.xml' with default provider at slot 1
+
+Thu Aug 22 14:47:08 2024
+WARNING: mju_openResource: could not open resource 'object.xml' with default provider at slot 1
+
+Thu Aug 22 14:47:23 2024
+WARNING: mju_openResource: could not open resource 'object.xml' with default provider at slot 1
+
+Thu Aug 22 14:55:06 2024
+WARNING: mju_openResource: could not open resource 'object.xml' with default provider at slot 1
+
+Thu Aug 22 14:55:21 2024
+WARNING: mju_openResource: could not open resource 'object.xml' with default provider at slot 1
+
+Thu Aug 22 14:55:34 2024
+WARNING: mju_openResource: could not open resource 'object.xml' with default provider at slot 1
+
+Thu Aug 22 15:15:41 2024
+WARNING: mju_openResource: could not open resource 'iiwa/robot.xml' with default provider at slot 1
+
+Thu Aug 22 15:16:53 2024
+WARNING: mju_openResource: could not open resource 'iiwa/robot.xml' with default provider at slot 1
+
+Thu Aug 22 15:17:02 2024
+WARNING: mju_openResource: could not open resource 'iiwa/robot.xml' with default provider at slot 1
+
+Thu Aug 22 15:17:39 2024
+WARNING: mju_openResource: could not open resource 'iiwa/robot.xml' with default provider at slot 1
+
+Thu Aug 22 15:23:40 2024
+WARNING: mju_openResource: could not open resource 'iiwa/robot.xml' with default provider at slot 1
+
+Thu Aug 22 15:29:44 2024
+WARNING: mju_openResource: could not open resource 'iiwa/robot.xml' with default provider at slot 1
+
+Thu Aug 22 15:32:12 2024
+WARNING: mju_openResource: could not open resource 'iiwa/robot.xml' with default provider at slot 1
+
+Thu Aug 22 16:48:56 2024
+ERROR: GLEW initalization error: Missing GL version
+
+Thu Aug 22 16:49:42 2024
+ERROR: GLEW initalization error: Missing GL version
+
+Thu Aug 22 16:50:41 2024
+ERROR: GLEW initalization error: Missing GL version
+
+Thu Aug 22 17:23:53 2024
+ERROR: GLEW initalization error: Missing GL version
+
+Thu Aug 22 17:27:42 2024
+ERROR: GLEW initalization error: Missing GL version
+
+Thu Aug 22 17:32:44 2024
+ERROR: GLEW initalization error: Missing GL version
+
+Thu Aug 22 17:34:57 2024
+ERROR: GLEW initalization error: Missing GL version
+
+Thu Aug 22 20:51:07 2024
+ERROR: could not create window
+
+Thu Aug 22 21:08:54 2024
+ERROR: could not create window
+
+Thu Aug 22 21:10:31 2024
+WARNING: mju_openResource: could not open resource 'iiwa/robot.xml' with default provider at slot 1
+
+Thu Aug 22 21:11:22 2024
+WARNING: mju_openResource: could not open resource 'iiwa/robot.xml' with default provider at slot 1
+
+Thu Aug 22 21:15:42 2024
+WARNING: mju_openResource: could not open resource 'iiwa/robot.xml' with default provider at slot 1
+
+Thu Aug 22 21:15:42 2024
+WARNING: mju_openResource: could not open resource 'object.xml' with default provider at slot 1
+
+Fri Aug 23 19:25:11 2024
+WARNING: mju_openResource: could not open resource 'iiwa/robot.xml' with default provider at slot 1
+
+Fri Aug 23 19:25:13 2024
+WARNING: mju_openResource: could not open resource 'object.xml' with default provider at slot 1
+
+Thu Dec 26 02:31:21 2024
+WARNING: mju_openResource: could not open resource 'tactile_assets/insertion/scene.xml' with default provider at slot 1
+
+Thu Dec 26 02:31:21 2024
+WARNING: mju_openResource: could not open resource 'right_pad_collisions.xml' with default provider at slot 1
+
+Thu Dec 26 02:31:21 2024
+WARNING: mju_openResource: unknown file 'right_pad_collisions.xml'
+
+Thu Dec 26 02:32:40 2024
+WARNING: mju_openResource: could not open resource 'tactile_assets/insertion/scene.xml' with default provider at slot 1
+
+Thu Dec 26 02:32:40 2024
+WARNING: mju_openResource: could not open resource 'touch_sensors.xml' with default provider at slot 1
+
+Thu Dec 26 02:32:40 2024
+WARNING: mju_openResource: unknown file 'touch_sensors.xml'
+
+Thu Dec 26 02:33:16 2024
+WARNING: mju_openResource: could not open resource 'tactile_assets/insertion/scene.xml' with default provider at slot 1
+
+Thu Dec 26 02:33:16 2024
+WARNING: mju_openResource: could not open resource 'object.xml' with default provider at slot 1
+
+Thu Dec 26 02:33:16 2024
+WARNING: mju_openResource: unknown file 'object.xml'
+
+Thu Dec 26 02:38:53 2024
+WARNING: mju_openResource: could not open resource 'tactile_assets/insertion/scene.xml' with default provider at slot 1
+
+Thu Dec 26 02:40:09 2024
+WARNING: mju_openResource: could not open resource 'tactile_assets/insertion/scene.xml' with default provider at slot 1
+
+Mon Dec 30 21:03:55 2024
+WARNING: mju_openResource: could not open resource 'tactile_assets/insertion/scene.xml' with default provider at slot 1
+
+Mon Dec 30 21:09:26 2024
+WARNING: mju_openResource: could not open resource 'tactile_assets/insertion/scene.xml' with default provider at slot 1
+
